@@ -19,4 +19,4 @@ As per the notebook
 |------------------|----------|----------|----------|----------|
 | lowest valid loss| 0.259849 | 0.252815 | 0.230920 | 0.231992 |
 
-Link to model and validatation subset: https://drive.google.com/drive/folders/1jUijrscFQAvB61qaukmupKz5ov-rPGLu?usp=drive_link
+[Link to model and validatation subset](https://drive.google.com/drive/folders/1jUijrscFQAvB61qaukmupKz5ov-rPGLu?usp=drive_link)
